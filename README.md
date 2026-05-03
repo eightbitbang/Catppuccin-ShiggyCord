@@ -5,6 +5,8 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+<img src="assets/mocha.webp"/>
+
 ## Usage
 
 Either copy the raw file link or copy the contents of the json to your clipboard to install the theme in Shiggycord. Enjoy!
